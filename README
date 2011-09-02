@@ -1,0 +1,7 @@
+Mailme is Yet Another "You've got mail!" notifier. It works at least
+with Google and may work with MSN and Yahoo. It uses Telepathy
+MailNotification interface, so a corresponding chat account must be
+configured (e.g. in GNOME Online Accounts).
+
+The code is mostly ripped from meego-panel-myzone.
+
